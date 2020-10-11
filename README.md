@@ -4,7 +4,7 @@ DO NOT USE THIS SHIT GAME HACKING, IT IS JUST FOR STUDYING HOW COMMUNICATE WITH 
 
 ### Examples
 
-* Winbaram x86
+* Winbaram x86 ( This game doesn't seem to use lua_tinker )
 
 ![luatinker](https://user-images.githubusercontent.com/13113619/95670184-30c9ec80-0bc3-11eb-93fc-fe1a50e58f56.png)
 
