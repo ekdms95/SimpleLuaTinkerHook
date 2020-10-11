@@ -21,7 +21,7 @@ DO NOT USE THIS SHIT GAME HACKING, IT IS JUST FOR STUDYING HOW COMMUNICATE WITH 
 ### What is the lua_tinker ?
 
 * Lua_Tinker is Library that binds Lua and C++ who made by korean guy
-* a lot of korean games are using when they use lua
+* Quite a few korean games are using lua_tinker when they use lua ( nexon games )
 
 ### This will works x64 too ?
 
