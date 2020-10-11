@@ -16,6 +16,8 @@ DO NOT USE THIS SHIT GAME HACKING, IT IS JUST FOR STUDYING HOW COMMUNICATE WITH 
 
 * lua_tinker's gettop, dostring
 
+![luatinker3](https://user-images.githubusercontent.com/13113619/95670296-45f34b00-0bc4-11eb-8ba2-02968290f8f5.png)
+
 ### What is the lua_tinker ?
 
 * Lua_Tinker is Library that binds Lua and C++ who made by korean guy
