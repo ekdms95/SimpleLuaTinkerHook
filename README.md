@@ -6,7 +6,7 @@ DO NOT USE THIS SHIT GAME HACKING, IT IS JUST FOR STUDYING HOW COMMUNICATE WITH 
 
 * Winbaram x86
 
-
+![luatinker](https://user-images.githubusercontent.com/13113619/95670184-30c9ec80-0bc3-11eb-93fc-fe1a50e58f56.png)
 
 * BlackDesert Online x64
 
