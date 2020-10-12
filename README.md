@@ -25,4 +25,4 @@ DO NOT USE THIS SHIT GAME HACKING, IT IS JUST FOR STUDYING HOW COMMUNICATE WITH 
 
 ### This will works x64 too ?
 
-* Yes it can be used x86 x64 both.
+* Yes it can be used x86 x64 both. you have to modify something.
